@@ -9,3 +9,4 @@ When cloning the repo make sure you use “git clone –recursive <url>” to cl
   VNC Viewer:
   User: pi
   Password: password
+  IP Address: 172.25.75.112
