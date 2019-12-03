@@ -4,3 +4,8 @@ This repository will serve as our center of operations as we build our self-driv
 ### NOTE:
 
 When cloning the repo make sure you use “git clone –recursive <url>” to clone the DeepPiCar Repo as well.
+  
+  
+  VNC Viewer:
+  User: pi
+  Password: password
